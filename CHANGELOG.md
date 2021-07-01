@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.160.1-alpha.305d23d361c7450da1239f17a8efaa3791ff9010](https://github.com/bigcommerce/checkout-sdk-js/compare/v1.160.0...v1.160.1-alpha.305d23d361c7450da1239f17a8efaa3791ff9010) (2021-07-01)
+
+
+### Bug Fixes
+
+* **checkout:** DATA-7883 Fix Segment + GAEE issue ([305d23d](https://github.com/bigcommerce/checkout-sdk-js/commit/305d23d361c7450da1239f17a8efaa3791ff9010))
+
 ## [1.160.0](https://github.com/bigcommerce/checkout-sdk-js/compare/v1.159.0...v1.160.0) (2021-06-30)
 
 
